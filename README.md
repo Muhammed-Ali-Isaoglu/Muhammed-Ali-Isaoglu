@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Hi, I’m Ali
 
-<!--
-**Muhammed-Ali-Isaoglu/Muhammed-Ali-Isaoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an **Aspiring AI/ML Engineer** passionate about artificial intelligence, algorithms, and building real-world projects. I like learning by doing and contributing to open-source projects.
 
-Here are some ideas to get you started:
+- 👨‍💻 I’m currently working on AI/ML projects, coding challenges, and open-source contributions to improve my engineering skills.  
+- 🌱 I’m currently learning machine learning, deep learning, algorithms, data structures, and data science fundamentals.  
+- 🎯 My goal is to become an AI engineer and work on impactful, large-scale technology products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tools & Technologies
+- **Programming:** Python, SQL  
+- **AI/ML:** PyTorch, sckitlearn, EDA(numpy,pandas,matplotlib,seaborn), OpenCV, LLMs API  
+- **Tools:** Git, GitHub, Linux, Colab, Cuda
+- **Concepts:** Deep Learning, Machine Learning, Data Structures, Algorithms, 
+
